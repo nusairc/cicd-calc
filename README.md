@@ -1,1 +1,1 @@
-repo created for CICD learning puurpose , imlemnting Python Unit test , Cloudfromation Deployment .
+repo created for CICD learning puurpose , implemnting Python Unit test , Cloudfromation Deployment.
